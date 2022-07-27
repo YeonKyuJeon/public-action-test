@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/YeonKyuJeon/public-action-test/issues"
   },
-  "homepage": "https://github.com/YeonKyuJeon/public-action-test#readme"
+  "homepage": "https://github.com/YeonKyuJeon/public-action-test#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
